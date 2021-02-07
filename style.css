@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#myCanvas {
+  background-color: greenyellow;
+  margin: 5vh auto;
+  display: block;
+}
